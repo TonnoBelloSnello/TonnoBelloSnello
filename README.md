@@ -1,1 +1,1 @@
-[![Tonno7103's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonno7103&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
