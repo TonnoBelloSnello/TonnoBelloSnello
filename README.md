@@ -16,6 +16,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tonno7103&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=tonno7103&icon=0&color=0)](https://visitcount.itsvg.in)
-
