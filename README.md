@@ -1,10 +1,9 @@
-# About Me:
-- I'm studying Computer Engineering 
-- Full stack developer 
-- Main programming language:
+# About Me:  
+- Main programming language
   - Python 
   - JavaScript/TypeScript
   - Java
+- Full stack developer
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tonno7103&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
