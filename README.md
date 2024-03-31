@@ -3,6 +3,7 @@
   - Python 
   - JavaScript/TypeScript
   - Java
+  - C++
 - Full stack developer
 
 # 📊 GitHub Stats:
