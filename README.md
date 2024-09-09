@@ -10,5 +10,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonnobellosnello&repo=microrabbit&theme=github_dark)](https://github.com/tonnobellosnello/microrabbit)
 <br>
 ![TonnoBelloSnello's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonnoBelloSnello&show_icons=true&theme=github_dark)
-
+<br>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonnoBelloSnello&layout=compact&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TonnoBelloSnello&label=Profile%20views&color=0e75b6&style=flat" alt="TonnoBelloSnello" /> </p>
