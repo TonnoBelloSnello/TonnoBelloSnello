@@ -4,7 +4,7 @@
 
 ### Libraries/Frameworks (or any other technology):
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,svelte,rabbitmq,fastapi,flask,figma,git,maven,jenkins,npm,laravel,materialui,mysql,postgres,sqlite,nodejs,prisma,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,svelte,rabbitmq,fastapi,flask,figma,git,maven,npm,laravel,materialui,mysql,postgres,sqlite,nodejs,prisma,supabase)](https://skillicons.dev)
 
 ### GitHub Stats:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonnobellosnello&repo=microrabbit&theme=github_dark)](https://github.com/tonnobellosnello/microrabbit)
